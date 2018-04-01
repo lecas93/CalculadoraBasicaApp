@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Básica</string>
+    <string name="hint_1">Número uno</string>
+    <string name="hint_2">Número dos</string>
+    <string name="btn_suma">Suma</string>
+    <string name="btn_resta">Resta</string>
+    <string name="btn_mul">Mul</string>
+    <string name="btn_div">Div</string>
+    <string name="error_campoVacio">Error: campo númerico vacío</string>
+    <string name="error_divCero">Operación invalida: división entre cero</string>
+</resources>

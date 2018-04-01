@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="hint_1">First number</string>
+    <string name="hint_2">Second number</string>
+    <string name="btn_suma">Add</string>
+    <string name="btn_resta">Sub</string>
+    <string name="btn_mul">Mul</string>
+    <string name="btn_div">Div</string>
+    <string name="error_campoVacio">Error: empty number field</string>
+    <string name="error_divCero">Invalid operation: division between zero</string>
+</resources>
